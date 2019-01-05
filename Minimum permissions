@@ -1,0 +1,16 @@
+Operation	Minimum permissions
+Install Nintex Workflow for Office 365
+Site collection administrator
+
+Open the Nintex Workflow designer	
+List: Full control
+Site: Read
+Site collection: Read
+
+Publish a workflow	
+List: Full control
+Site: Design
+
+Run a workflow
+List: Contribute
+Site: Contribute
